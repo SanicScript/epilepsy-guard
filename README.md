@@ -3,9 +3,16 @@
 A Windows background tool that monitors your screen in real time and automatically covers it with a dark overlay the moment rapid flashing is detected — helping protect users with photosensitive epilepsy.
 
 # IT IS NOT PREFECT
+
 One of my friends has epilepsy, and another has photosensitivity. I tried to find software that could detect flashes and dim the screen, but I could not find anything, so I decided to make it myself for my friends!
 After I told them I was making it for them and showed them the prototype, the friends it was for, along with some of my other friends, started telling me how this could help so many people, not just them. That thought had never crossed my mind.
 So I decided to post it here, and I am going to keep updating and improving it as fast as possible. It is not perfect, and it has many bugs. It will probably continue to have bugs for a while, but I just want to make my friends’ lives a little easier. :D
+
+# Donations
+
+If you would like to donate and support me or EpilepsyGuard it would mean more then you know! :3
+
+https://ko-fi.com/sanicscript
 
 ## What it does
 
@@ -58,6 +65,11 @@ Right-click the tray icon to access:
 
 - Screen capture requires a DirectX-capable GPU. If another app holds an exclusive DXGI lock (e.g. some screen-sharing software), capture will retry automatically.
 - True exclusive-fullscreen D3D games (with Windows Fullscreen Optimizations disabled) bypass the DWM compositor — the overlay cannot appear above them. Running games in borderless windowed mode resolves this.
+
+# Donations
+
+If you would like to donate and support me or EpilepsyGuard it would mean more then you know!
+https://ko-fi.com/sanicscript
 
 ## License
 
