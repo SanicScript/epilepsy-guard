@@ -1,5 +1,7 @@
 # EpilepsyGuard
 
+<img width="512" height="512" alt="Epilepsy Guard" src="https://github.com/user-attachments/assets/4041d8fb-a95e-4055-9654-e75d2aff5c2c" />
+
 A Windows background tool that monitors your screen in real time and automatically covers it with a dark overlay the moment rapid flashing is detected — helping protect users with photosensitive epilepsy.
 
 # IT IS NOT PREFECT
