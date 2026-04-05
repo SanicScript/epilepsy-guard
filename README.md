@@ -66,11 +66,6 @@ Right-click the tray icon to access:
 - Screen capture requires a DirectX-capable GPU. If another app holds an exclusive DXGI lock (e.g. some screen-sharing software), capture will retry automatically.
 - True exclusive-fullscreen D3D games (with Windows Fullscreen Optimizations disabled) bypass the DWM compositor — the overlay cannot appear above them. Running games in borderless windowed mode resolves this.
 
-# Donations
-
-If you would like to donate and support me or EpilepsyGuard it would mean more then you know!
-https://ko-fi.com/sanicscript
-
 ## License
 
 MIT — see [LICENSE](LICENSE) if present, otherwise use freely.
