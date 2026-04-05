@@ -1,0 +1,22 @@
+# Build output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+
+# User settings (generated at runtime — not part of the source)
+epilepsy_guard_settings.json
+epilepsy_guard_presets.json
+
+# OS
+Thumbs.db
+.DS_Store
